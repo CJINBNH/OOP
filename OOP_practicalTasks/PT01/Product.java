@@ -21,15 +21,5 @@ public class Product {
     public Double getProductPrice() {
         return productPrice;
     }
-
-    public void setProductName(String productName) {
-        this.productName = productName;
-    }
-
-    public void setProductPrice(Double productPrice) {
-        this.productPrice = productPrice;
-    }
     
 }
-
-
